@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Movie Library</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="search_movie">Search And Discover!</string>
+    <string name="add_my_own">Add My Own!</string>
+    <string name="app_label">search</string>
+    <string name="search_hint">search me</string>
+    <string name="clear_library">Clear Library</string>
+    <string name="exit">Exit</string>
+    <string name="entry_text">No movies in library, click on the top right corner to add</string>
+    <string name="remove_from_library">REMOVE FROM LIBRARY</string>
+</resources>
